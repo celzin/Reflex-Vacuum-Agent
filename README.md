@@ -23,7 +23,7 @@
 
 A figura representa o agente aspirador de pó, entenda seu funcionamento. Basicamente o agente aspirador de pó segue as suposições listadas abaixo:
 
-1. A medida de desempenho ofereça o prêmio de um ponto para cada quadrado limpo.
+1. A medida de desempenho oferece o prêmio de um ponto para cada quadrado limpo.
 
 2. A “geografia” do ambiente seja conhecida a priori, mas a distribuição da sujeira e a posição inicial do agente é desconhecida. 
 
