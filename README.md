@@ -13,7 +13,7 @@
 # ⚠️ Apresentação do Problema 
 
 <p align="center">
-<img src="imgs/main_fig.png" width="400"/> 
+<img src="imgs/main_fig.png" width="600"/> 
 </p>
 <p align="center">
 <em>Figura 1: Representação do agente aspirador de pó e seus possíveis estados. </em>
@@ -31,7 +31,7 @@ A figura representa o agente aspirador de pó, entenda seu funcionamento. Basica
 
 4. O agente percebe corretamente sua posição e se essa posição contém sujeira.
 
-5. As únicas ações disponíveis são Left, Right, Suck e NoOp (não fazer nada).
+5. As únicas ações disponíveis são `Left`, `Right`, `Suck` e `NoOp` (não fazer nada).
 
 6. A função do agente é limpar se o quadrado tem sujeira e ir para o outro quadrado, caso contrário.
 
